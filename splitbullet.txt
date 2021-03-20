@@ -1,0 +1,7 @@
+"splitbullet"
+{
+	"base"		"sandbox"
+	"title"		"Split Bullet: Anarchy"
+	"maps"		"^sba_"
+	"menusystem"	"1"
+}
